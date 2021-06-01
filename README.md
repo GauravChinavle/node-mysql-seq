@@ -19,8 +19,8 @@ This project performs CRUD operation using `sequelize ORM` with validating user 
 - [MySQL](https://www.mysql.com/) - _Open-source relational database management system_
 
 ### Modules used
-- [Sequelize](https://sequelize.org/) -  _promise-based Node.js ORM_
-- [Joi](https://www.npmjs.com/package/joi) - _data validator as middleware_
+- [Sequelize](https://sequelize.org/) -  _Promise-based Node.js ORM_
+- [Joi](https://www.npmjs.com/package/joi) - _Data validator as middleware_
 
 ### Credentials required
 - MySQL Database
