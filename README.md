@@ -1,7 +1,7 @@
 # CRUD operation using Sequalize ORM 
 
 ### Description
-This project performs CRUD operation `sequelize ORM` with validating user input with middleware `JOI`.
+This project performs CRUD operation using `sequelize ORM` with validating user input with middleware `JOI`.
 
 ### How to use ?
   ```
