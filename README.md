@@ -1,4 +1,4 @@
-# Covid-19 Vaccine Availability Tracker App
+# CRUD operation using Sequalize ORM 
 
 ### Description
 This project performs CRUD operation sequelize ORM with validating user input.
