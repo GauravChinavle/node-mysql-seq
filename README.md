@@ -12,11 +12,11 @@ This project performs CRUD operation using `sequelize ORM` with validating user 
   ```
 
 ### Technologies used
-- [Nodejs](https://nodejs.org/en/) - _JavaScript runtime built on Chrome's V8 JavaScript engine._
+- [Nodejs](https://nodejs.org/en/) - _JavaScript runtime built on Chrome's V8 JavaScript engine_
 - [Express](https://expressjs.com/) - _Fast, unopinionated, minimalist web framework for Node.js_
 
 ### Database used
-- [MySQL](https://www.mysql.com/) - _JavaScript runtime built on Chrome's V8 JavaScript engine._
+- [MySQL](https://www.mysql.com/) - _Open-source relational database management system_
 
 ### Modules used
 - [Sequelize](https://sequelize.org/) -  _promise-based Node.js ORM_
